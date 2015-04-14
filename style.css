@@ -1,0 +1,37 @@
+/* Fonts */
+@import url(http://fonts.googleapis.com/css?family=Alegreya:400,700);
+@import url(http://fonts.googleapis.com/css?family=Permanent+Marker);
+
+/* Masthead */
+header {
+  padding: 6em 0;
+	background-image: url('http://i.imgur.com/lvXbgcg.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-top: solid 1em #000;
+}
+.masthead-text {
+  position: fixed;
+  top: 7.25em;
+  right: 18.75em;
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  margin-top: 0;
+  font-family: "Permanent Marker";
+  font-size: 3.75em;
+  letter-spacing: 0.2em;
+  text-shadow: 0 .1em .1em #c4c4c4; 
+}
+p {
+  margin-right: .625em;
+  margin-bottom: 0;
+  text-align: left;
+  font-family: Alegreya;
+  font-weight: 400;
+  font-size: 1.125em;
+  line-height: .6em;
+}
+
+/* Section 1 */
